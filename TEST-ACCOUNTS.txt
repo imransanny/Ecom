@@ -1,0 +1,15 @@
+TOMATO CLOTHING — FOUR ROLE DEMO (NOT REAL ACCOUNTS)
+
+TO TRY ON A PHONE:
+Open TOMATO-DEMO-OPEN-ME.html in a browser, or publish this project on GitHub Pages and open app.html.
+
+ROLE          ID                      PASSWORD
+Super Admin   owner@tomato.demo       OwnerDemo2026!
+Manager       manager@tomato.demo     ManagerDemo2026!
+Staff         staff@tomato.demo       StaffDemo2026!
+Customer      customer@tomato.demo    CustomerDemo2026!
+
+Inside the demo: tap one of the role cards to auto-fill the ID and password, then tap SIGN IN TO DEMO.
+Use Sign out / change role to return to the login and try the next role.
+
+IMPORTANT: These credentials are public and only simulate login when Supabase is not configured. They are not production accounts. Nothing persists to a real database and no payments are taken. For real login, set up Supabase according to README.md.
